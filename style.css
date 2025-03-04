@@ -67,6 +67,7 @@
 table thead tr{
     position:sticky;
     top: 10;
+   left:0;
     z-index:101;
 }
 .navbar{
