@@ -1,15 +1,15 @@
 const CACHE_NAME = "pwa-cache-v1";
 const urlsToCache = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/app.js",
-  "/script12.js",
-  "/about.html",
-  "/backgroundimage.jpg",
-  "/ramadan.png",
-  "/ramadan16.png",
-  "/ramadan512.png"
+  "index.html",
+  "style.css",
+  "app.js",
+  "script12.js",
+  "about.html",
+  "backgroundimage.jpg",
+  "ramadan.png",
+  "ramadan16.png",
+  "ramadan512.png"
  // "/icons/icon-192x192.png",
   //"/icons/icon-512x512.png"
 ];
