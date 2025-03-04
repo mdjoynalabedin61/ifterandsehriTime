@@ -1,0 +1,21 @@
+{
+  "name": "Ramadan Iftar/Sehri Time 2025",
+  "short_name": "Ramadan 2025",
+  "description": "Ramadan timeTable 2025",
+  "start_url": "/ramadan8.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#36454F",
+  "icons": [
+    {
+      "src": "ramadan.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "ramadan512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
