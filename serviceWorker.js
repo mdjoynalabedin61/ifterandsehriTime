@@ -3,7 +3,6 @@ self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open('static')
       .then(function (cache) {
-        cache.add('/');
         cache.add('index.html');
         cache.add('style.css');
         cache.add('app.js');
