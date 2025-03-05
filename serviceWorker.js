@@ -8,12 +8,13 @@ self.addEventListener('install', function (event) {
         cache.add('style.css');
         cache.add('app.js');
         cache.add('about.html');
-        cache.add('script.js');
+        cache.add('script12.js');
         cache.add('backgroundimage.jpg');
         cache.add('ramadan.png');
         cache.add('ramadan16.png');
         cache.add('ramadan512.png');
         cache.add('tittle-bottom.svg');
+        cache.add('Tohofa-Ramadan-2025.jpg');
        /* cache.add('favicon167.png');
         cache.add('favicon180.png');
         cache.add('favicon32.png');
