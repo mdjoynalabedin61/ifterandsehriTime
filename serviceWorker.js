@@ -13,7 +13,7 @@ self.addEventListener('install', function (event) {
         cache.add('ramadan.png');
         cache.add('ramadan16.png');
         cache.add('ramadan512.png');
-        cache.add('tittle-bottom.svg');
+        cache.add('title-bottom.svg');
         cache.add('Tohofa-Ramadan-2025.jpg');
        /* cache.add('favicon167.png');
         cache.add('favicon180.png');
