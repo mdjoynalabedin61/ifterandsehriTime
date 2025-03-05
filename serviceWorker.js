@@ -3,6 +3,8 @@ self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open('static')
       .then(function (cache) {
+        cache.add('https://bd-ifter-and-sehri-time2025.vercel.app/index.html');
+      cache.add('https://bd-ifter-and-sehri-time2025.vercel.app/about.html');
         cache.add('index.html');
         cache.add('style.css');
         cache.add('app.js');
