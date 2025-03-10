@@ -16,8 +16,8 @@ self.addEventListener('install', function (event) {
         cache.add('ramadan512.png');
         cache.add('title-bottom.svg');
         cache.add('Tohofa-Ramadan-2025.jpg');
-       /* cache.add('favicon167.png');
-        cache.add('favicon180.png');
+        cache.add('chatmohor.html');
+      /*  cache.add('favicon180.png');
         cache.add('favicon32.png');
         cache.add('favicon512.png');
         cache.add('manifest.json');
